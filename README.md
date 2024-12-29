@@ -1,0 +1,6 @@
+# 区块链游戏昆虫世界DAPP链游NFT元宇宙
+
+BSC去中心化的DAPP游戏，无管理后台，运行在BSC链上。<br>全自动授权登录，不需要账号密码<br>游戏介绍：游戏设置在一个小昆虫的世界。玩家应该解锁密封的彩蛋来召唤英雄为自己而战，或者建立公会以获得更多战利品。Antmons英雄分为不同的战斗属性：战士，坦​​克，弓箭手，AOE和投掷者。他们每个人都有不同的技能和技能，您也可以在战斗前为每个人选择另一个特殊技能。所以你需要提高技能，优化安排，这样你才能赢得战斗并产生奖励！英雄的稀有度由两个因素决定：英雄稀有度和皮肤稀有度。稀有度越高的英雄，能量越多，技能越强大，在DEW战斗中获得的DEW奖励也更多。<br>英雄稀有度：英雄稀有度由蚁兽的封印蛋内的掉落率决定。英雄稀有度有4个不同级别：<br>普通英雄<br>稀有英雄<br>史诗英雄<br>传奇英雄<br>皮肤稀有度：皮肤稀有度取决于蚁兽的密封蛋的稀有度。蚁兽的封印蛋越稀有，英雄的形象就越好。皮肤稀有度分为3种不同级别：<br>R级<br>SR级<br>SSR等级<br>免责声明：<br>1：本店所开发出售软件源代码仅限于开发学习交流，不提供任何商业运营维护服务。<br>2：若购买方私自二次开发修改，转让，用于商业运营或非法用途等行为，与我方无关。<br>3：购买前请仔细阅读本声明，购买则表示您已阅读并同意本声明的以上所有条款之约定。<br>
+
+
+<p style="color: red;">源代码下载地址：<a href="https://mega-file.org/97ID2" style="color: red;">https://mega-file.org/97ID2</a></p><p style="color: red;"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="Telegram Icon" style="width: 16px; vertical-align: middle; margin-right: 5px;">Telegram:<a href="https://t.me/official_sourcecode" style="color: red;">@official_sourcecode</a></p>
